@@ -4,7 +4,7 @@ Crawler that collect data of locations and CEPs (zip codes) ranges from correios
 ## Installation
 Steps:
 * Create a virtualenv: `python -m venv venv` and enter: `source venv/bin/activate`
-* Install the dev dependencies with `pip install -r requirements-dev.txt`
+* Install the dev dependencies with `pip install -r requirements_dev.txt`
 
 ## Run the program
 * Run the `app.py` file
