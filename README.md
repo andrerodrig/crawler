@@ -12,7 +12,7 @@ Follow the steps bellow:
 
 ## Running the programm
 In the virtualenv, execute the project with the command:
-<center>`$ crawler`</center>
+`$ crawler`
 
 ## Testing the project
 For to be able to test the package, you must have installed the **pytest** package.
@@ -26,7 +26,7 @@ So install as follows:
 * Enter the venv and run: `pip install -e ."[test]"`
 
 With pytest installed, just make sure you are in the project directory, and run:
-<center>`$ pytest`</center>
+`$ pytest`
 
 
 ## Developer mode
