@@ -5,7 +5,7 @@ import pandas as pd
 class HtmlObject:
     """Class for the HTML element for search"""
 
-    def __init__(self, driver, url):
+    def __init__(self, url, driver=None):
         self.driver = driver
         self.url = url
         self.name_select_ufs = "UF"

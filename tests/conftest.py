@@ -1,6 +1,5 @@
 import pytest
 import crawler.correios as c
-from selenium import webdriver
 
 
 @pytest.fixture(scope='module')
@@ -36,7 +35,6 @@ def create_htmlobj():
         "TO",
     ]
 
-    ff = webdriver.Firefox()
-    htmlobj = c.HtmlObject(ff, "https://www.google.com")
+    htmlobj = c.HtmlObject("https://www.google.com")
     htmlobj._HtmlObject__ufs = array_ufs
     return htmlobj
