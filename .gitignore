@@ -3,6 +3,7 @@ __pycache__/
 *_cache/
 
 *.egg-info
+*metadata
 *.log
 
 # Test Html Files
