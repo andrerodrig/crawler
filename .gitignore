@@ -1,0 +1,10 @@
+# Cache files
+__pycache__/
+*_cache/
+
+*.egg-info
+*metadata
+*.log
+
+# Test Html Files
+html_simulator
