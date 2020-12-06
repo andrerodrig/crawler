@@ -1,4 +1,5 @@
 # crawler
+
 Crawler that collect data of locations and CEPs (zip codes) ranges
 from correios web site. The output is a .jsonl file.
 
@@ -36,4 +37,3 @@ If you want to use the developer mode, install as the following command:
 or
 
 `pip install -e ."[dev]"` (zsh)
-
