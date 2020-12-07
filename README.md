@@ -9,7 +9,7 @@ For running this package successfully, you must have installed the following sof
 * Selenium Webdriver for Firefox - [geckodriver](https://github.com/mozilla/geckodriver/releases).
 ---
 ## Installation
-First, verify if you have **Python 3.6** or a higher version.
+First, verify if you have **Python 3.7** or a higher version.
 
 Follow the steps bellow:
 * Create a virtual environment with the command: `$ python -m venv venv`
