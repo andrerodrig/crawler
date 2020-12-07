@@ -17,7 +17,7 @@ Follow the steps bellow:
     + Switch to venv: `$ source venv/bin/activate`
 * Windows:
     + Switch to venv: `.\venv\Scripts\activate.bat`
-* Enter the directory and install the package: `$ pip install -e .`
+* Enter the directory and install the package: `$ pip install .`
 
 ## Running the programm
 In the virtualenv, execute the project with the command:
