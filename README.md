@@ -28,11 +28,11 @@ For to be able to test the package, you must have installed the **pytest** packa
 
 ### If you use bash
 So install that:
-* Enter the venv and run: `pip install -e .[test]`
+* Enter the venv and run: `pip install .[test]`
 
 ### If you use zsh
 So install as follows:
-* Enter the venv and run: `pip install -e ."[test]"`
+* Enter the venv and run: `pip install ."[test]"`
 
 With pytest installed, just make sure you are in the project directory, and run:
 `$ pytest`
